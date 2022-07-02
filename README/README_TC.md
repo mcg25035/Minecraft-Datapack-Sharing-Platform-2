@@ -15,7 +15,7 @@
 
 <img src="https://media.discordapp.net/attachments/763787703958372402/992695856492982352/unknown.png" width=16> 介紹
 
->&emsp;&emsp;這個資料包能幫助人們更容易的上傳資料包，找到別人製作的資料包且一鍵安裝至地圖資料夾
+>&emsp;&emsp;這個資料包能幫助人們更容易的上傳資料包、找到別人製作的資料包且一鍵安裝至地圖資料夾
 
 <br><br>
 

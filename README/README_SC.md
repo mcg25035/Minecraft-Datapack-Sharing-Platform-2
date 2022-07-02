@@ -5,7 +5,7 @@
 
 # <img src="https://media.discordapp.net/attachments/763787703958372402/992710401643003934/unknown.png" width=48>**Minecraft Datapack Sharing Platform 2**<br><br>
 <br><br>
-   🌐 README Languages
+   🌐 README 语言
 
 >&emsp;&emsp;[　]　[English](https://github.com/mcg25035/Minecraft-Datapack-Sharing-Platform-2/blob/main/README.md)<br>
 &emsp;&emsp;[　]　[中文繁體](https://github.com/mcg25035/Minecraft-Datapack-Sharing-Platform-2/blob/main/README/README_TC.md)<br>
@@ -15,7 +15,7 @@
 
 <img src="https://media.discordapp.net/attachments/763787703958372402/992695856492982352/unknown.png" width=16> 介绍
 
->&emsp;&emsp;这个资料包能帮助人们更容易的上传资料包，找到别人制作的资料包且一键安装至地图资料夹
+>&emsp;&emsp;这个资料包能帮助人们更容易的上传资料包、找到别人制作的资料包且一键安装至地图资料夹
 
 <br><br>
 
