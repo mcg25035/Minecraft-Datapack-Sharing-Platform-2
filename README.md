@@ -10,7 +10,7 @@
 
 <img src="https://media.discordapp.net/attachments/763787703958372402/992695856492982352/unknown.png" width=16> Introdution
 
->&emsp;&nbsp;This is a platform can make people upload datapacks<br>&emsp;&emsp;or find datapacks and install to theirs worlds easily.
+>&emsp;&nbsp;This is a platform can make people upload datapacks<br>&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;or find datapacks and install to theirs worlds easily.
 
 <br><br>
 
