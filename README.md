@@ -1,8 +1,4 @@
 
-
-<br>
-
-
 <br>
 
 # <img src="https://media.discordapp.net/attachments/763787703958372402/992710401643003934/unknown.png" width=48>**Minecraft Datapack Sharing Platform 2**<br>
