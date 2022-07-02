@@ -1,11 +1,10 @@
 # <img src="https://media.discordapp.net/attachments/763787703958372402/992710401643003934/unknown.png" width=48>**Minecraft Datapack Sharing Platform 2**<br>
-　
-
+&nbsp;
 
 🌐 README Languages
->&emsp;&emsp;[⚝]　English<br>
-&emsp;&emsp;[　]　[中文繁體](https://github.com/mcg25035/Minecraft-Datapack-Sharing-Platform-2/blob/main/README/README_TC.md)<br>
-&emsp;&emsp;[　]　[中文簡体](https://github.com/mcg25035/Minecraft-Datapack-Sharing-Platform-2/blob/main/README/README_SC.md)
+>&emsp;&nbsp;[⚝]　English<br>
+&emsp;&nbsp;[　]　[中文繁體](https://github.com/mcg25035/Minecraft-Datapack-Sharing-Platform-2/blob/main/README/README_TC.md)<br>
+&emsp;&nbsp;[　]　[中文簡体](https://github.com/mcg25035/Minecraft-Datapack-Sharing-Platform-2/blob/main/README/README_SC.md)
 
 <br><br>
 
@@ -17,14 +16,14 @@
 
 <img src="https://cdn.discordapp.com/attachments/763787703958372402/992716242706255932/unknown.png" width=17> Install
 
->&emsp;&emsp; [ <img src="https://cdn.iconscout.com/icon/free/png-256/windows-221-1175066.png" width=12> Windows]()<br>
->&emsp;&emsp; [ <img src="https://media.discordapp.net/attachments/763787703958372402/992718211399299132/unknown.png" width=12 > Linux]()<br>
->&emsp;&emsp; [ <img src="https://media.discordapp.net/attachments/763787703958372402/992718435693891595/unknown.png" width=12> Mac]()
+>&emsp;&nbsp; [ <img src="https://cdn.iconscout.com/icon/free/png-256/windows-221-1175066.png" width=12> Windows]()<br>
+>&emsp;&nbsp; [ <img src="https://media.discordapp.net/attachments/763787703958372402/992718211399299132/unknown.png" width=12 > Linux]()<br>
+>&emsp;&nbsp; [ <img src="https://media.discordapp.net/attachments/763787703958372402/992718435693891595/unknown.png" width=12> Mac]()
 
 <br><br>
 
 🔗 Don't you want to install program ? We have MDSP for browser!
->&emsp;&emsp;[MDSP4Browser]()
+>&emsp;&nbsp;[MDSP4Browser]()
 
 
 
