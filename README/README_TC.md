@@ -7,9 +7,9 @@
 <br><br>
    🌐 README Languages
 
->&emsp;&emsp;[　]　[English](https://github.com/mcg25035/Minecraft-Datapack-Sharing-Platform-2/README.md)<br>
+>&emsp;&emsp;[　]　[English](https://github.com/mcg25035/Minecraft-Datapack-Sharing-Platform-2/blob/main/README.md)<br>
 &emsp;&emsp;[⚝]　中文繁體<br>
-&emsp;&emsp;[　]　[中文簡体](https://github.com/mcg25035/Minecraft-Datapack-Sharing-Platform-2/README/README_SC.md)
+&emsp;&emsp;[　]　[中文簡体](https://github.com/mcg25035/Minecraft-Datapack-Sharing-Platform-2/blob/main/README/README_SC.md)
 
 <br><br>
 
