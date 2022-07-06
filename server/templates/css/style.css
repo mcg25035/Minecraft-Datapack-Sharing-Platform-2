@@ -1,6 +1,5 @@
 @import url(https://fonts.googleapis.com/earlyaccess/notosanstc.css);
 
-
 html{
     width: 100%;
     height: 100%;
@@ -16,9 +15,27 @@ body{
 
 }
 
+div.header.theme_blue{
+    background : linear-gradient(65deg , #224070 , #224887);
+}
+
+div.header.theme_stone{
+    background: url("./../resources/stone_wall.png")
+}
+
+div.header.theme_dark{
+    background : linear-gradient(65deg , #35535d , #6b6957);
+}
+
+div.header.theme_light{
+    background : linear-gradient(65deg , #f0ebbf ,#79c0d8 );
+}
+
+div.header.theme_default{
+    background : linear-gradient(65deg , #f0ebbf ,#79c0d8 );
+}
 
 div.header{
-    background : linear-gradient(65deg , #75a0e6 , #224887);
     width : 100%;
     height: 8%;
     top: 0;
@@ -33,6 +50,7 @@ div.headerInner{
 }
 
 img.header_logo{
+    user-select: none;
     position: absolute;
     left : 2%;
     top : 50%;
@@ -40,7 +58,89 @@ img.header_logo{
     transform: translateY(-50%);
 }
 
+div.header_user{
+    position: absolute;
+    right : 2%;
+    top : 50%;
+    width: 5vw;
+    height: 3.5vw;
+    border-radius: 3px;
+    background: rgba(0,0,0,0.6);
+    /*debug line*/
+    
+    transform: translateY(-50%);
+}
 
+img.header_user_icon{
+    user-select: none;
+    position: absolute;
+    left : 0;
+    top : 0;
+    height: 100%;
+    width: 3.5vw;
+    image-rendering: pixelated;
+}
+
+.header_user_extend{
+    user-select: none;
+    position: absolute;
+    right : 0;
+    top : 0;
+    height: 100%;
+    width: 1.5vw;
+    text-align: center;
+    
+}
+
+i.header_user_extend_icon{
+    position: absolute;
+    top:50%;
+    left : 50%;
+    transform: translate(-50%,-50%);
+    color: #FFFFFF;
+}
+
+button.search{
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(-50%,-50%);
+    width: 6vh;
+    height: 6vh;
+    transition: all 0.25s ease-out;
+}
+
+input.search_input{
+    --center : calc( (6vh + 28vw) / 2 );
+    visibility: hidden;
+    padding-left: 0;
+    position: absolute;
+    height: 6vh;
+    width: 0px;
+    transform: translate(calc(6px + 28.5vw - var(--center)),-50%);
+    right : 50%;
+    top: 50%;
+    transition: all 0.25s ease;
+}
+
+input.search_input.state2{
+    padding-left: 30px;
+    visibility: visible;
+    width: 28%;
+}
+
+i.search{
+    height: 80%;
+    width: 80%;
+}
+
+button.search.state2{
+    --center : calc( (6vh + 28vw) / 2 );
+    transform: translate(calc( 6px + 0.5vw + var(--center)),-50%);
+    right:50%;
+    
+    /* after add class state2 , the search button.right will form 0% goto 30%! animate it!*/
+}
 
 main{
     top:8%;
@@ -49,3 +149,5 @@ main{
     z-index: 1;
     
 }
+
+

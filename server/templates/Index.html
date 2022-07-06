@@ -1,12 +1,32 @@
+
 <!DOCTYPE html>
 <html lang="">
   <head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="./css/style.css">
+    <link rel="stylesheet" type="text/css" href="./css/button.css">
+    <script src="./js/data_load.js"></script>
+    <script src="./js/search_button.js"></script>
     <meta charset="utf-8">
     <title></title>
   </head>
   <body>
-    <header></header>
-    <main></main>
+    <div class="header theme_default">
+        <img class="header_logo" src="./resources/icon.png">
+        <input class="search_input">
+        <button onclick="search_button()" class="button search"><i class="search fa fa-search"></i></button>
+
+
+        <div class="header_user">
+          <img class="header_user_icon">
+          <div onclick="console.log('test')" class="event header_user_extend" event="extend">
+            <i class="fa fa-caret-down header_user_extend_icon"></i>          
+          </div>
+        </div>
+    </div>
+    <main>
+      
+    </main>
     <footer></footer>
   </body>
 </html>

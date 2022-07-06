@@ -4,27 +4,30 @@
     <link rel="stylesheet" type="text/css" href="./css/style.css">
     <link rel="stylesheet" type="text/css" href="./css/login_inputs.css">
     <link rel="stylesheet" type="text/css" href="./css/button.css">
+    <script src="./js/banner.js"></script>
     <meta charset="utf-8">
     <title></title>
   </head>
   <body>
-    <div class="header">
+    <div class="header theme_default">
         <img class="header_logo" src="./resources/icon.png">
     </div>
     <main>
       <div class="login_form">
         <img class="login_form_banner" src="./resources/background.png">
+        <img class="login_form_icon" src="./resources/banner.png">
         
         <div class="inputs">
           <svg class="login" width="44" height="40" viewBox="0 0 44 40"><g stroke="#fff" fill="none" stroke-width="3.538" transform="translate(0 -1012.362)"><ellipse ry="8.09" rx="8.244" cy="1022.221" cx="21.555" stroke-linecap="round"/><path d="M1.858 1046.4c-.79 4.74 3.805 4.11 3.805 4.11H37.88s4.846.936 4.312-3.854c-.533-4.79-6.076-10.937-20.04-11.043-13.964-.106-19.504 6.047-20.294 10.786z"/></g></svg>
-          <input class="input">
+          <input class="input lang" placeholder="{LANG.USERNAME}">
+          <h5 class="forget_password lang">{LANG.FORGETPWD1}?<a class="lang">{LANG.FORGETPWD2}</a></h4>
           <svg class="lock" width="44" height="46" viewBox="0 0 44 46"><g transform="translate(-28.15 -974.678)" stroke="#fff" fill="none" stroke-width="3.509"><rect ry="3.136" y="995.18" x="29.903" height="23.743" width="40.491" stroke-linecap="round"/><path d="M49.386 1004.406v4.788" stroke-linecap="round"/><path d="M37.073 994.83s-1.39-18.398 12.97-18.398c14.36 0 12.207 18.397 12.207 18.397"/></g></svg>
-          <input class="input" type="password">
+          <input class="input lang" type="password" placeholder="{LANG.PASSWORD}">
         </div>
-        <button class="button login_form_button lang"> 
+        <button onclick="bounce_start()" class="button login_form_button lang"> 
           {LANG.LOGIN}
         </button>
-        <h4 class="noaccount lang"> {LANG.TO_REG_1}?<a class="noaccount lang" href="SignIn.html">{LANG.TO_REG_2}</a></h4>
+        <h4 class="noaccount lang"> {LANG.TO_REG_1}?<a class="lang" href="SignIn.html">{LANG.TO_REG_2}</a></h4>
       </div>
     </main>
     <footer></footer>
